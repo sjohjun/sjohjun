@@ -28,6 +28,22 @@
 
 <br/>
 
+## 👦[About Me]👦
+
+- 🔭 I’m currently working on **Yonsei IT**
+
+- 🌱 I’m currently learning **AI & Data Science**
+
+- 👨‍💻 All of my projects are available at [github.com/sjohjun](github.com/sjohjun)
+
+- 💬 Ask me about **Python, ML, DL**
+
+- 📫 How to reach me **djohjun@naver.com**
+
+
+
+<br/>
+
 ##### ----------------------------------------------------------------------------------------------------------
 #### 📑My Notion Link : https://www.notion.so/98b758b6406242108fdd6c1f242ee317
 ##### ----------------------------------------------------------------------------------------------------------
