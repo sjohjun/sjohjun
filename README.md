@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Git%20Portfolios&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=300&section=header&text=Git%20Portfolios&fontSize=70)
 ## Hi there 👋
 
 <h1> 📚My Tech Stack📚</h2>
@@ -20,6 +20,7 @@
 #### 👦Gender : Male
 #### 📲College Major: Display Engineering
 #### 🙇MBTI : ENTJ
+#### 📝E-Mail : djohjun@naver.com
 
 <br/>
 
