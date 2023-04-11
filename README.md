@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### Hi there 👋
 
 <h1> My Tech Stack 👋</h2>
@@ -18,3 +19,4 @@
 ##### ----------------------------------------------------------------------------------------------------------
 #### My Notion Link : https://www.notion.so/98b758b6406242108fdd6c1f242ee317
 ##### ----------------------------------------------------------------------------------------------------------
+
