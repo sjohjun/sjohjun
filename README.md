@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1> My Tech Stack 👋</h1>
+<h1> My Tech Stack 👋</h2>
 ![ alt text ](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=Python)
 ![ alt text ](https://img.shields.io/badge/Oracle-22c-F80000?style=for-the-badge&logo=Oracle)
 ![ alt text ](https://img.shields.io/badge/Java-Java_17-FE2EC8?style=for-the-badge&logo=Java)
@@ -9,7 +9,9 @@
 ![ alt text ](https://img.shields.io/badge/linux-CentOS_8.5-FCC624?style=for-the-badge&logo=linux)
 
 
-<h2> </h2>
+<h3> </h4>
+<h5> </h6>
+<h7> </h8>
 
 ##### ----------------------------------------------------------------------------------------------------------
 #### My Notion Link : https://www.notion.so/98b758b6406242108fdd6c1f242ee317
