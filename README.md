@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Git%20Portfolios&fontSize=70)
-### Hi there 👋
+## Hi there 👋
 
 <h1> My Tech Stack 👋</h2>
 
@@ -11,11 +11,11 @@
 ![ alt text ](https://img.shields.io/badge/r-4.1.1-276DC3?style=for-the-badge&logo=r)
 ![ alt text ](https://img.shields.io/badge/linux-CentOS_8.5-FCC624?style=for-the-badge&logo=linux)
 
-<br/><br/>
+<br/>
 
 ## [Information]
 
-<br/><br/>
+<br/>
 
 #### Name : Oh SungJun
 #### Birth : 1996.10.19
@@ -24,7 +24,7 @@
 #### MBTI : ENTJ
 #### BloodType : B
 
-<br/><br/>
+<br/>
 
 ##### ----------------------------------------------------------------------------------------------------------
 #### My Notion Link : https://www.notion.so/98b758b6406242108fdd6c1f242ee317
