@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=58ACFA&height=300&section=header&text=Git%20Portfolios&fontSize=70)
 ## Hi there 👋
 
-<h1> 📚My Tech Stack📚</h2>
+<h1>                                   📚My Tech Stack📚</h2>
 
 
 ![ alt text ](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=Python)
