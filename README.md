@@ -11,6 +11,12 @@
 ![ alt text ](https://img.shields.io/badge/r-4.1.1-276DC3?style=for-the-badge&logo=r)
 ![ alt text ](https://img.shields.io/badge/linux-CentOS_8.5-FCC624?style=for-the-badge&logo=linux)
 
+<br/><br/>
+
+## [Information]
+
+<br/><br/>
+
 #### Name : Oh SungJun
 #### Birth : 1996.10.19
 #### Gender : Male
