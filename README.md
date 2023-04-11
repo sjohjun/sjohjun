@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Git%20Portfolios&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=58ACFA&height=300&section=header&text=Git%20Portfolios&fontSize=70)
 ## Hi there 👋
 
 <h1> 📚My Tech Stack📚</h2>
