@@ -11,13 +11,14 @@
 ![ alt text ](https://img.shields.io/badge/r-4.1.1-276DC3?style=for-the-badge&logo=r)
 ![ alt text ](https://img.shields.io/badge/linux-CentOS_8.5-FCC624?style=for-the-badge&logo=linux)
 
-### Name : Oh SungJun
-### Birth : 1996.10.19
-### Gender : Male
-### MBTI : ENTJ
-### BloodType : B
+#### Name : Oh SungJun
+#### Birth : 1996.10.19
+#### Gender : Male
+#### College Major: Display Engineering
+#### MBTI : ENTJ
+#### BloodType : B
 
-
+<br/><br/>
 
 ##### ----------------------------------------------------------------------------------------------------------
 #### My Notion Link : https://www.notion.so/98b758b6406242108fdd6c1f242ee317
