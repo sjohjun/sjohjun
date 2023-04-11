@@ -14,6 +14,7 @@
 ![ alt text ](https://img.shields.io/badge/linux-CentOS_8.5-FCC624?style=for-the-badge&logo=linux)
 ![ alt text ](https://img.shields.io/badge/pytorch-1.10.1-EE4C2C?style=for-the-badge&logo=pytorch)
 ![ alt text ](https://img.shields.io/badge/keras-2.8.0-D00000?style=for-the-badge&logo=keras)
+![ alt text ](https://img.shields.io/badge/apachehadoop-3.3.1-66CCFF?style=for-the-badge&logo=apachehadoop)
 
 <br/>
 
