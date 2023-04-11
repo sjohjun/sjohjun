@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <h1> My Tech Stack 👋</h2>
+
+
 ![ alt text ](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=Python)
 ![ alt text ](https://img.shields.io/badge/Oracle-22c-F80000?style=for-the-badge&logo=Oracle)
 ![ alt text ](https://img.shields.io/badge/Java-Java_17-FE2EC8?style=for-the-badge&logo=Java)
