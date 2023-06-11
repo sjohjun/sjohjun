@@ -35,8 +35,6 @@
 
 ## 👦[About Me]👦
 
-- 🔭 I’m currently working on **Yonsei IT**
-
 - 🌱 I’m currently learning **AI & Data Science**
 
 - 👨‍💻 All of my projects are available at [github.com/sjohjun](github.com/sjohjun)
